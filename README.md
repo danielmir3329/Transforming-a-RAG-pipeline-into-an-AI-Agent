@@ -5,7 +5,7 @@ This project demonstrates how to evolve a basic large language model chatbot int
 The implementation uses modern AI engineering components including **OpenAI**, **Qdrant**, **Docling**, **FastEmbed**, and an interactive **Jupyter chat interface**. Documents are downloaded, chunked, embedded, and stored in a vector database so the system can retrieve relevant context during conversations. This makes the project a practical example of how to design an intelligent assistant that moves beyond static prompting into a more dynamic and modular architecture.
 
 ## Project Objectives
-
+ 
 The main goals of this project are to:
 
 - Build a baseline chatbot with direct LLM interaction
