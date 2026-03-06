@@ -1,8 +1,3 @@
----
-title: "Transforming a RAG Pipeline into an AI Agent"
-output: github_document
----
-
 # Transforming a RAG Pipeline into an AI Agent
 
 This project demonstrates how to evolve a basic large language model chatbot into a more capable **AI agent** by gradually introducing **retrieval-augmented generation (RAG)**, **query rewriting**, **optional retrieval decisions**, and **tool-based retrieval workflows**. The notebook walks through the full progression from a simple chatbot with no retrieval to a more agentic system that can decide when to search for information, rewrite user questions for better document retrieval, and use external context to generate stronger answers.
